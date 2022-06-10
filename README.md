@@ -1,6 +1,6 @@
 # odin-recipes
 Finally, we shall put all the current HTML knowledge to the test...
-In this project, we will buil a basic recipe website.
+In this project, we will build a basic recipe website.
 
 It will consist of:
 A main index page which will have links to a few recipes.
